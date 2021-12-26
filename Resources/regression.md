@@ -1,7 +1,7 @@
 
 ### Regression:
 
-### Notebooks
+### Notebooks:
 1. [Simple Linear Regression](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/simple-linear-regression/simple-linear-regression.ipynb)
 2. [Multiple Linear Regression](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/multiple-linear-regression/multiple-regression.ipynb)
 3. [Multiple Linear Regression with Gradient Descent Optimization](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/multiple-linear-regression/multiple-regression-gradient-descent.ipynb)
@@ -10,6 +10,21 @@
 6. [Ridge Regression with Gradient Descent Optimization](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/ridge-regression/ridge-regression-gradient-descent.ipynb)
 7. [Lasso Regression](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/lasso-regression/lasso-regression.ipynb)
 8. [Nearest Neighbor Regression](https://github.com/agrawal-priyank/machine-learning-regression/blob/master/nearest-neighbor-regression/nearest-neighbor-regression.ipynb)
+
+### Videos and articles:
+- [Kaggle Competition - House Prices: Advanced Regression Techniques Part1](https://www.youtube.com/watch?v=vtm35gVP8JU)
+- [Kaggle Competition - House Prices: Advanced Regression Techniques Part2](https://www.youtube.com/watch?v=htXcQPsaGWw)
+- [Tutorial 26- Linear Regression Indepth Maths Intuition- Data Science](https://www.youtube.com/watch?v=1-OGRohmH2s)
+- [MIT  Regression](https://www.youtube.com/watch?v=yP1S37BiEsQ)
+- [MIT Regression Analysis](https://www.youtube.com/watch?v=l1kLCrxL9Hk)
+- [Linear Regression and Gradient Descent | Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/watch?v=4b4MUYve_U8)
+- [Understanding The Linear Regression!!!!](https://medium.com/analytics-vidhya/understanding-the-linear-regression-808c1f6941c0)
+- [Step-by-Step Regression Analysis](https://medium.com/@mygreatlearning/step-by-step-regression-analysis-f7e3e3ebf296)
+- [All About ML — Part 1: Detailed explanation of Linear Regression](https://medium.com/all-about-ml/linear-regression-d41a6a5dcab6)
+- [Linear Regression Explained for Beginners in Machine Learning](https://medium.com/swlh/linear-regression-explained-for-beginners-in-machine-learning-9e74f168d8a8)
+- [Understanding Multiple Linear Regression](https://medium.com/swlh/understanding-multiple-linear-regression-e0a93327e960)
+- [Introduction to regression analysis](https://towardsdatascience.com/introduction-to-regression-analysis-9151d8ac14b3)
+- 
 
 #### Kaggle notebooks and competitions:
 - [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/kernels)
