@@ -24,7 +24,6 @@
 - [Linear Regression Explained for Beginners in Machine Learning](https://medium.com/swlh/linear-regression-explained-for-beginners-in-machine-learning-9e74f168d8a8)
 - [Understanding Multiple Linear Regression](https://medium.com/swlh/understanding-multiple-linear-regression-e0a93327e960)
 - [Introduction to regression analysis](https://towardsdatascience.com/introduction-to-regression-analysis-9151d8ac14b3)
-- 
 
 #### Kaggle notebooks and competitions:
 - [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/kernels)
